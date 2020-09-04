@@ -22,7 +22,7 @@ git clone https://https://github.com/YaswanthKota/RNA-DNA
 
 ## Screenshots
 <p align="center"><img width=95% src="https://github.com/YaswanthKota/RNA-DNA/blob/master/01.png"></p>
-<p align="center"><img width=95% src="https://github.com/YaswanthKota/RNA-DNA/blob/master/03.png"></p>
+<p align="center"><img width=95% src="https://github.com/YaswanthKota/RNA-DNA/blob/master/02.png"></p>
 <p align="center"><img width=95% src="https://github.com/YaswanthKota/RNA-DNA/blob/master/04.png"></p>
 <p align="center"><img width=95% src="https://github.com/YaswanthKota/RNA-DNA/blob/master/05.png"></p>
 
